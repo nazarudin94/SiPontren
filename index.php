@@ -6,6 +6,15 @@
 </head>
 <body>
 	<h1>Selamat Datang</h1>
+    <table>
+    <tr>
+    <td>No</td>
+    <td>Nama</td>
+    <td>Nim</td>
+    <td>Alamat</td>	
+    </tr>
+    
 
+    </table>
 </body>
 </html>
