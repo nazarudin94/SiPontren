@@ -13,6 +13,10 @@
     <td>Nim</td>
     <td>Alamat</td>	
     </tr>
+    <tr>
+    	<td>Jl</td>
+    	<td>Almat</td>
+    </tr>
     
 
     </table>
