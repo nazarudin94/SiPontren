@@ -1,0 +1,45 @@
+/*bodi*/
+body{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+	background: #98FB98;
+}
+
+/*box untuk mengatur ukuran from box*/
+.box{
+	width:300px;
+	padding: 40px;
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: #ecf0f1;
+	border-radius: 20px;
+	text-align: center;
+}
+
+/*box untuk mengatur ukuran from text,email dan password*/
+.box input[type="text"],.box input[type="Email"],.box input[type="Password"]{
+	border: 0;
+	background: none;
+	display: block;
+	margin:20px auto;
+	text-align: center;
+	border: 1px solid #000000;
+	padding: 14px 18px;
+	width: 200px;
+	outline: none;
+	/*color: white;*/
+	border-radius: 24px;
+	transition: 0.25s; 
+}
+/*box untuk mengatur ukuran from box submit*/
+.box input[type="submit"]{
+	border-radius: 10px;
+	background: #006400;
+	padding: 7px;
+	color: white;
+	width:90px;
+	margin: 10px; 
+}

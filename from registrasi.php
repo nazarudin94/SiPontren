@@ -11,7 +11,7 @@
   <!-- header -->
   <div class="container">
     <div class="wrap">
-      <img src="b.jpeg" width="1110px" height="180px"></div><br/>
+      <img src="image/b.jpeg" width="1110px" height="180px"></div><br/>
 
       <div class="wrap" style="background-color:white;">
        <div class="wrap " style="background-color: grey" align="center">Informasi Sekolah</div>
@@ -139,6 +139,13 @@
             <option></option>
             <option>2021</option>
           </select></td>
+        </tr>
+        <tr>
+          <td><hr><center>
+            <input type="submit" name="submit" value="Proses"> 
+            <input type="submit" name="submit" value="Batal">
+          </center>
+          </td>
         </tr>
 
       </body>
