@@ -5,7 +5,7 @@
 </head>
 <!-- link css -->
 <link rel="stylesheet" type="text/css" href="fontawose/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="login.css">
+<link rel="stylesheet" type="text/css" href="css/login.css">
 <link rel="stylesheet" type="text/css" href="css/boostrap.min.css">
 
 <body>

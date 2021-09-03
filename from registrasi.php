@@ -122,6 +122,7 @@
             <option>2021</option>
           </select></td>
         </tr>
+<<<<<<< HEAD:from registrasi.php
         <tr>
           <td><hr><center>
             <input type="submit" name="submit" value="Proses"> 
@@ -129,5 +130,8 @@
           </center>
           </td>
         </tr>
+
+=======
+>>>>>>> main:isi_data.php
       </body>
       </html> 
