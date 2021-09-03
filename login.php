@@ -10,7 +10,7 @@
 
 <body>
 	<!-- form login -->
-	<form class="box " action="#" method="post">
+	<form class="box " action="isi_data.php" method="post">
 		<h1>Login</h1>
 		<input type="Email" name="Email " placeholder="Email" >
 		<span class="simbol-input12">
