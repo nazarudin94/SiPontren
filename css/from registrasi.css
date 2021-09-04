@@ -1,9 +1,9 @@
 /*bodi*/
-body{
+.bg-body{
 	margin:0;
 	padding:0;
 	font-family: sans-serif;
-	background: #98FB98;
+	background-color: #429654!important; 
 }
 
 /*box untuk mengatur ukuran from box*/

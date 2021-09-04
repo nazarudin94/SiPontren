@@ -6,25 +6,47 @@
 <!-- link css -->
 <link rel="stylesheet" type="text/css" href="fontawose/css/all.min.css">
 <link rel="stylesheet" type="text/css" href="css/from registrasi.css">
-<link rel="stylesheet" type="text/css" href="css/boostrap.min.css">
+<!-- <link rel="stylesheet" type="text/css" href="css/boostrap.min.css"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-<body>
-	<!-- form login -->
-	<form class="box " action="#" method="post">
-		<h1>Sign-up</h1>
-		<input type="text" name="Masukin Nama " placeholder="Masukin Nama" >
+<body class="bg-body">
 
-		<input type="Email" name="Masukin Email" placeholder="Masukin Email">
-	
-		<input type="text" name="Masukin Username" placeholder="Masukin Username">
-
-		<input type="password" name="Password" placeholder=" Password">
-
-		<input type="password" name="Password" placeholder="Re-Password">
+	<div class="container">
 		
-		<input type="submit" name="submit" value="Masuk">
-		<h5 align="left">Sudah Punya Account?</h5>
-		<a href="#"><p align="left">Login</p></a>
-	</form>
+	<div class="row">
+    <div class="card w-50">
+    
+  <div class="card-body">
+    <h5 class="card-title"><center>Registrasi</center></h5>
+    
+		<form>
+  <div class="form-group">
+    <label for="exampleInputEmail1">Nama</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Masukin Nama">
+    <small id="emailHelp" class="form-text text-muted"></small>
+  </div>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Alamat Email</label>
+    <input type="Email" class="form-control" id="exampleInputPassword1" placeholder="Masukin Email">
+  </div>
+   <div class="form-group">
+    <label for="exampleInputPassword1">Username</label>
+    <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Masukin Username">
+  </div>
+   <div class="form-group">
+    <label for="exampleInputPassword1">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+  </div>
+   <div class="form-group">
+    <label for="exampleInputPassword1">Re-Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Re-Password">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+  </div>
+</div>
+</div>
+	</div>
+	</div>
 </body>
 </html>
