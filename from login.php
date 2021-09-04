@@ -5,9 +5,10 @@
 </head>
 <!-- link css -->
 <link rel="stylesheet" type="text/css" href="fontawose/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="css/from registrasi.css">
-<!-- <link rel="stylesheet" type="text/css" href="css/boostrap.min.css"> -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<!-- <link rel="stylesheet" type="text/css" href="css/from registrasi.css"> -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/tambahan.css">]
+
 
 <body class="bg-body">
 
