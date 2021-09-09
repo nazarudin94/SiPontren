@@ -52,7 +52,7 @@
 							</div>
 							<div class="d-inline p-2">
 
-								<a class="btn btn-warning" href="daftar akun.php">Daftar</a>
+								<a class="btn btn-warning" href="from login.php">Daftar</a>
 							</div>
 
 						</form>
